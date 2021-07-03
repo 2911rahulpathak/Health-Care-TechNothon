@@ -29,8 +29,9 @@
 
 ## Solution Provided
 
-1. Eases load on government to setup registration portal framework
+1. Eases load on government to setup registration portal framework By providing a Centralized System.
 2. Provides first step to access to government aided treatment
+3. Payement Made Through Ethereum will be Stored on Decentralized System so Anyone can View it And Is Trustworthy. 
 
 ## Tech Stack Used
 > HTML
@@ -47,4 +48,18 @@ Reinforces our current [Policy for Treatment of Rare Diseases](https://main.mohf
 
 ## Procedure to run the project locally
 
-*Technique taka*
+**1.** Fork [this](https://github.com/2911rahulpathak/Health-Care-TechNothon) repository.
+
+**2.** Clone the forked repository.
+
+```bash
+git clone https://github.com/<your-github-username>/project_name.git
+```
+**3.** **Congratulations!** Sit and relax, you've Cloned this Repository.
+
+
+
+
+
+
+
