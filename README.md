@@ -53,7 +53,7 @@ Reinforces our current [Policy for Treatment of Rare Diseases](https://main.mohf
 **2.** Clone the forked repository.
 
 ```bash
-git clone https://github.com/<your-github-username>/project_name.git
+git clone https://github.com/2911rahulpathak/Health-Care-TechNothon.git
 ```
 **3.** **Congratulations!** Sit and relax, you've Cloned this Repository.
 
