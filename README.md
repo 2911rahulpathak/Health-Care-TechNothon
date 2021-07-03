@@ -20,7 +20,8 @@
 ---
 ## Outline of Idea
 
-**Imagine a country where the government has introduced its health policy for the treatment and cure of rare diseases.**
+**Imagine a country where the government has introduced its health policy for the treatment and cure of rare diseases.** 
+**Our Project is a suggestion for Changes in the National Health Policy for Rare Diseases Of Government of India which was Approved on 31 March 2021.**
 **We have created a web portal/page which displays:**
 - The nominal information regarding the policy. 
 - A form for the patients where they would provide their details like income, age, address, disease diagnosed, phone number, etc. 
